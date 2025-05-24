@@ -51,12 +51,16 @@ fraud_detection_website/
 
 ## 🧩 Broader Use Cases
 While this project is built for credit card fraud detection, the stacked ensemble learning algorithm used here can be applied to a wide range of classification problems in various domains:
+
 🩺 Medical Diagnosis:
 Predict diseases such as cancer, diabetes, or heart conditions using patient data by combining multiple predictive models for better accuracy.
+
 📊 Financial Risk Assessment:
 Analyze loan applications, credit scoring, and detect insurance fraud by capturing diverse financial indicators through ensemble modeling.
+
 🛍️ Customer Churn Prediction:
 Identify customers likely to leave a service or product based on behavioral and transactional data.
+
 🎓 Academic Performance Forecasting:
 Predict student success or drop-out risk using academic records, attendance, and other performance metrics.
 🔐 Cybersecurity Threat Detection:
